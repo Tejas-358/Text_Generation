@@ -12,7 +12,7 @@ The model is trained on the text of ["Pride and Prejudice" by Jane Austen](https
 
 ## Dependencies
 
-- Python 3.x
+- Python 
 - Keras
 - NumPy
 - NLTK (for text preprocessing)
@@ -20,7 +20,7 @@ The model is trained on the text of ["Pride and Prejudice" by Jane Austen](https
 
 ## Files
 
-- `text_generation_lstm.py`: Python script containing the code for training the LSTM model.
+- `text_generation.ipynb`: Python script containing the code for training the LSTM model.
 - `README.md`: This file, provides an overview of the project.
 
 ## Usage
@@ -28,14 +28,12 @@ The model is trained on the text of ["Pride and Prejudice" by Jane Austen](https
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Tejas-358/Text_Generation.git
 
-2. Clone the repository:
+2. Train the model
 
-Run the training script
+Run the training scripts to train the model
 
 ## Results
 The trained model can generate text that resembles the style and structure of the input text dataset. Example outputs can be found in the generated output during the script execution.
  
-Results
-The trained model can generate text that resembles the style and structure of the input text dataset. Example outputs can be found in the generated output during the script execution.
